@@ -1,0 +1,1 @@
+# ejercicio-clase-2-POO---Clase-objeto-encapsulaci-n-y-herencia-
